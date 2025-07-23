@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Hii, I am Sayed Kesa Zehra Zaidi A Passionate Full-Stack Developer From India. I love building real-world web applications using modern Technologies.
+💻 Tech Stack:
+🧠 EJS, Bootstrap 
+🚀 Node.js, Express.js
+🪩 HTML, CSS JavaScript 
+📌 MongoDB, Mongoose
 
-<!--
-**KesaZaidi110/KesaZaidi110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Projects
+[🌐StaySafeApp] (https://github.com/KesaZaidi110/StaySafeApp)
+A public safety and crime detection web app using Node.js, MongoDB, EJS etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[🌎Stayzio] (https://github.com/KesaZaidi110/Stayzio)
+A listing and booking platform with role-based access and dark theme support.
+
+
+
+### 📫 Contact Me:
+Email: kesazaidi2@gmail.com 
+
+
+
+🏆Google Cloud Arcade Program - 2025 (20+ skill badges earned🏅)
+🏆Finalist, Internal Smart India Hackathon organised by AIMT, Lucknow 
+🏆Attendee, Google DevFest- Lucknow (2025)
+
