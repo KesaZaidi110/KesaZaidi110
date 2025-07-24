@@ -19,7 +19,7 @@ A listing and booking platform with role-based access and dark theme support.
 ### 📫 Contact Me:
 Email: kesazaidi2@gmail.com 
 
-
+### 🏅Achievements
 
 🏆Google Cloud Arcade Program - 2025 (20+ skill badges earned🏅)
 🏆Finalist, Internal Smart India Hackathon organised by AIMT, Lucknow 
