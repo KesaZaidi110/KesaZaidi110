@@ -12,7 +12,7 @@ A public safety and crime detection web app using Node.js, MongoDB, EJS etc.
 
 
 [🌎Stayzio][ [(https://github.com/KesaZaidi110/Stayzio)]](https://github.com/KesaZaidi110/Stayzio-QuickStay-)
-A listing and booking platform with role-based access and dark theme support.
+A listing and booking platform with role-based access and peaople can book their room/hotel.
 
 
 
